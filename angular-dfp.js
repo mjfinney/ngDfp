@@ -203,7 +203,7 @@ angular.module('ngDfp', [])
     };
     
     this.disableSingleRequest = function() {
-      enalbeSingleRequest = false;	
+      enableSingleRequest = false;	
     };
 
     // Public factory API.
